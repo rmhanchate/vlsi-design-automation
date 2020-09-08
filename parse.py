@@ -22,5 +22,5 @@ conn = dict()
 for i in range(len(initin)):
     conn[i] = initin[i]
 
-no_of_nodes = len(conn)
-adjmatrix = [[0 for i in range(no_of_nodes)] for j in range(no_of_nodes)]
+nodes = len(conn)
+adjmatrix = [[0 for i in range(nodes)] for j in range(nodes)]
