@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Sep  8 14:23:05 2020
+@author: Rahul
+"""
+
 import numpy as np
 import random
 import networkx as nx
